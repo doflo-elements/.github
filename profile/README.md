@@ -14,7 +14,6 @@ Developer Portal and Documentation
 
 Status
 * https://status.doflo.com
-* https://www.doflo-status.com
 
 ## Official doFlo code repos
 
